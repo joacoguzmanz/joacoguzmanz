@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋 I'm Joaquin
+
+A full stack developer from Argentina based in Barcelona.
+
+- [Personal website](https://www.joacoguzman.com/)
+- [LinkedIn](https://www.linkedin.com/in/guzman-joaquin/)
 
 <!--
 **joacoguzmanz/joacoguzmanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
