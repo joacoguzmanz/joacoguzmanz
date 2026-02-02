@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Joaquin
 
-A full stack developer from Argentina based in Barcelona.
+Full stack developer from Argentina based in Barcelona.
 
 - [Personal website](https://www.joacoguzman.com/)
 - [LinkedIn](https://www.linkedin.com/in/guzman-joaquin/)
